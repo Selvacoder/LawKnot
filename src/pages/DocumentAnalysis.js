@@ -19,34 +19,27 @@ const DocumentAnalysis = () => {
   const handleDrag = (e) => {
     e.preventDefault();
     e.stopPropagation();
-    if (e.type === "dragenter" || e.type === "dragover") {
-      setDragActive(true);
-    } else if (e.type === "dragleave") {
-      setDragActive(false);
-    }
+    if (e.type === "dragenter" || e.type === "dragover") setDragActive(true);
+    else if (e.type === "dragleave") setDragActive(false);
   };
 
   const handleDrop = (e) => {
     e.preventDefault();
     e.stopPropagation();
     setDragActive(false);
-    
-    if (e.dataTransfer.files && e.dataTransfer.files[0]) {
-      setSelectedFile(e.dataTransfer.files[0]);
-    }
+    if (e.dataTransfer.files && e.dataTransfer.files[0]) setSelectedFile(e.dataTransfer.files[0]);
   };
 
   const analyzeDocument = () => {
     if (!selectedFile || !isAuthenticated) return;
-    
+
     setIsAnalyzing(true);
     setError('');
-    
+
     documentsAPI.upload(selectedFile)
       .then(response => {
         const documentId = response.documentId;
-        
-        // Poll for analysis results
+
         const pollAnalysis = () => {
           documentsAPI.getAnalysis(documentId)
             .then(data => {
@@ -57,7 +50,6 @@ const DocumentAnalysis = () => {
                 setError('Document analysis failed. Please try again.');
                 setIsAnalyzing(false);
               } else {
-                // Continue polling
                 setTimeout(pollAnalysis, 2000);
               }
             })
@@ -66,8 +58,7 @@ const DocumentAnalysis = () => {
               setIsAnalyzing(false);
             });
         };
-        
-        // Start polling after a short delay
+
         setTimeout(pollAnalysis, 2000);
       })
       .catch(err => {
@@ -92,14 +83,10 @@ const DocumentAnalysis = () => {
           </div>
         )}
 
-        {error && (
-          <div className="error-message">
-            {error}
-          </div>
-        )}
+        {error && <div className="error-message">{error}</div>}
 
         <div className="upload-section">
-          <div 
+          <div
             className={`upload-area ${dragActive ? 'drag-active' : ''}`}
             onDragEnter={handleDrag}
             onDragLeave={handleDrag}
@@ -128,14 +115,14 @@ const DocumentAnalysis = () => {
                   <div className="file-name">{selectedFile.name}</div>
                   <div className="file-size">{(selectedFile.size / 1024).toFixed(2)} KB</div>
                 </div>
-                <button 
+                <button
                   className="remove-file"
                   onClick={() => setSelectedFile(null)}
                 >
                   ✕
                 </button>
               </div>
-              <button 
+              <button
                 className="btn analyze-btn"
                 onClick={analyzeDocument}
                 disabled={isAnalyzing || !isAuthenticated}
@@ -157,23 +144,25 @@ const DocumentAnalysis = () => {
         {analysisResult && (
           <div className="results-section">
             <h2>Analysis Results</h2>
-            
+
             <div className="results-grid">
               <div className="result-card">
                 <h3>Document Type</h3>
-                <p className="document-type">{analysisResult.documentType}</p>
+                <p className="document-type">{analysisResult?.documentType || 'Not available'}</p>
               </div>
-              
+
               <div className="result-card">
                 <h3>Risk Assessment</h3>
-                <p className={`risk-level ${analysisResult.riskAssessment.toLowerCase().replace(' ', '-')}`}>
-                  {analysisResult.riskAssessment}
+                <p
+                  className={`risk-level ${analysisResult?.riskAssessment?.toLowerCase?.().replace(' ', '-') || ''}`}
+                >
+                  {analysisResult?.riskAssessment || 'Not available'}
                 </p>
               </div>
-              
+
               <div className="result-card">
                 <h3>Compliance Status</h3>
-                <p className="compliance-status">{analysisResult.complianceCheck}</p>
+                <p className="compliance-status">{analysisResult?.complianceCheck || 'Not available'}</p>
               </div>
             </div>
 
@@ -181,7 +170,7 @@ const DocumentAnalysis = () => {
               <div className="result-section">
                 <h3>Key Points Identified</h3>
                 <ul className="key-points-list">
-                  {analysisResult.keyPoints.map((point, index) => (
+                  {(analysisResult?.keyPoints || []).map((point, index) => (
                     <li key={index}>{point}</li>
                   ))}
                 </ul>
@@ -190,7 +179,7 @@ const DocumentAnalysis = () => {
               <div className="result-section">
                 <h3>Recommendations</h3>
                 <ul className="recommendations-list">
-                  {analysisResult.recommendations.map((rec, index) => (
+                  {(analysisResult?.recommendations || []).map((rec, index) => (
                     <li key={index}>{rec}</li>
                   ))}
                 </ul>

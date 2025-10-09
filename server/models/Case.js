@@ -29,6 +29,10 @@ const caseSchema = new mongoose.Schema({
     enum: ['Contract Law', 'Employment Law', 'Intellectual Property', 'Criminal Law', 'Family Law', 'Real Estate', 'Tax Law', 'Other'],
     required: true
   },
+  caseType: {
+    type: String,
+    required: true
+  },
   summary: {
     type: String,
     required: true
