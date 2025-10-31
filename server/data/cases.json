@@ -1,0 +1,1321 @@
+[
+  {
+    "title": "Kesavananda Bharati v. State of Kerala",
+    "citation": "AIR 1973 SC 1461",
+    "court": "Supreme Court of India",
+    "date": "1973-04-24",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Established the 'Basic Structure' doctrine, asserting that Parliament cannot alter the Constitution's fundamental framework.",
+    "keyPoints": [
+      "Parliament's power to amend the Constitution is limited.",
+      "Core principles like democracy and secularism cannot be abrogated.",
+      "Introduced the 'Basic Structure Doctrine'.",
+      "Ensured protection of fundamental rights from arbitrary amendments.",
+      "Set a precedent for judicial review on constitutional amendments."
+    ],
+    "tags": ["Basic Structure", "Constitutional Amendment", "Judicial Review"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Maneka Gandhi v. Union of India",
+    "citation": "AIR 1978 SC 597",
+    "court": "Supreme Court of India",
+    "date": "1978-01-25",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Expanded the interpretation of Article 21, ruling that the right to life and personal liberty includes the right to live with human dignity.",
+    "keyPoints": [
+      "Article 21 includes the right to live with human dignity.",
+      "Any law affecting personal liberty must be just, fair, and reasonable.",
+      "Introduced the concept of procedural fairness.",
+      "Expanded the scope of fundamental rights beyond physical liberty.",
+      "Laid foundation for modern interpretation of human rights in India."
+    ],
+    "tags": ["Article 21", "Personal Liberty", "Judicial Activism"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Indira Gandhi v. Raj Narain",
+    "citation": "AIR 1975 SC 2299",
+    "court": "Supreme Court of India",
+    "date": "1975-11-07",
+    "jurisdiction": "Federal",
+    "caseType": "Election Law",
+    "summary": "Declared the election of Prime Minister Indira Gandhi void due to electoral malpractice, reinforcing the judiciary's role in upholding democratic processes.",
+    "keyPoints": [
+      "Elections are subject to judicial scrutiny.",
+      "No individual, including the Prime Minister, is above the law.",
+      "Reinforced democratic accountability.",
+      "Highlighted the importance of free and fair elections.",
+      "Set precedent for election dispute resolutions."
+    ],
+    "tags": ["Election Law", "Judicial Review", "Democracy"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Golaknath v. State of Punjab",
+    "citation": "AIR 1967 SC 1643",
+    "court": "Supreme Court of India",
+    "date": "1967-02-27",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Held that Parliament cannot amend fundamental rights, laying the groundwork for the 'Basic Structure' doctrine.",
+    "keyPoints": [
+      "Fundamental rights cannot be abridged by constitutional amendments.",
+      "Established limits on parliamentary power.",
+      "Created legal basis for later Basic Structure doctrine.",
+      "Strengthened protection of civil liberties.",
+      "Empowered judiciary to review constitutional amendments."
+    ],
+    "tags": ["Fundamental Rights", "Constitutional Amendment", "Judicial Review"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Minerva Mills v. Union of India",
+    "citation": "AIR 1980 SC 1789",
+    "court": "Supreme Court of India",
+    "date": "1980-07-31",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Clarified the 'Basic Structure' doctrine, ruling that Parliament cannot alter the Constitution's fundamental framework.",
+    "keyPoints": [
+      "Reaffirmed Basic Structure Doctrine.",
+      "Legislation violating core principles is unconstitutional.",
+      "Maintained supremacy of fundamental rights.",
+      "Judicial review acts as a check on Parliament.",
+      "Balanced amendment power and constitutional integrity."
+    ],
+    "tags": ["Basic Structure", "Constitutional Amendment", "Judicial Review"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Vishakha v. State of Rajasthan",
+    "citation": "AIR 1997 SC 3011",
+    "court": "Supreme Court of India",
+    "date": "1997-08-13",
+    "jurisdiction": "Federal",
+    "caseType": "Civil Rights",
+    "summary": "Established guidelines to prevent sexual harassment at the workplace, leading to the enactment of the Sexual Harassment of Women at Workplace Act, 2013.",
+    "keyPoints": [
+      "Sexual harassment violates fundamental rights under Article 14, 15, and 21.",
+      "Employers must implement preventive measures.",
+      "Introduced Vishakha Guidelines for workplaces.",
+      "Laid foundation for legislation against workplace harassment.",
+      "Emphasized gender equality in professional environments."
+    ],
+    "tags": ["Sexual Harassment", "Workplace Rights", "Gender Equality"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Olga Tellis v. Bombay Municipal Corporation",
+    "citation": "AIR 1986 SC 180",
+    "court": "Supreme Court of India",
+    "date": "1985-07-10",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Held that the right to life under Article 21 includes the right to livelihood.",
+    "keyPoints": [
+      "Right to life includes the right to livelihood.",
+      "Eviction without rehabilitation is unconstitutional.",
+      "State must provide alternative arrangements.",
+      "Strengthened protection of marginalized communities.",
+      "Expanded the social scope of Article 21."
+    ],
+    "tags": ["Right to Livelihood", "Eviction", "Human Rights"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Mohini Jain v. State of Karnataka",
+    "citation": "AIR 1992 SC 1858",
+    "court": "Supreme Court of India",
+    "date": "1992-07-30",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Held that the right to education is an integral part of the right to life under Article 21.",
+    "keyPoints": [
+      "Education is a fundamental right under Article 21.",
+      "Private educational institutions must follow constitutional principles.",
+      "State must ensure access to education for all children.",
+      "Expanded scope of fundamental rights.",
+      "Established judicial precedent for Right to Education Act, 2009."
+    ],
+    "tags": ["Right to Education", "Fundamental Rights", "Human Rights"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Indra Sawhney v. Union of India",
+    "citation": "AIR 1993 SC 477",
+    "court": "Supreme Court of India",
+    "date": "1992-12-16",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Addressed the implementation of reservation policies in India, affirming 27% quota for OBCs and barring reservations in promotions.",
+    "keyPoints": [
+      "Validated 27% reservation for Other Backward Classes (OBCs).",
+      "Reservation cannot exceed 50% ceiling except extraordinary circumstances.",
+      "Merit must be preserved alongside social justice.",
+      "Created concept of 'creamy layer' exclusion.",
+      "Set precedent for affirmative action policies."
+    ],
+    "tags": ["Reservation Policy", "Social Justice", "OBC"],
+    "precedentValue": "High"
+  },
+
+  {
+    "title": "S.R. Bommai v. Union of India",
+    "citation": "AIR 1994 SC 1918",
+    "court": "Supreme Court of India",
+    "date": "1994-03-11",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Ruled on the misuse of Article 356 and established that state government dismissal must be subject to judicial review.",
+    "keyPoints": [
+      "State governments cannot be dismissed arbitrarily under Article 356.",
+      "President's rule is subject to judicial scrutiny.",
+      "Strengthened federalism in India.",
+      "Set limits on central government's power over states.",
+      "Reinforced democratic accountability of state governments."
+    ],
+    "tags": ["Federalism", "Article 356", "Judicial Review"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Shah Bano Case (Mohd. Ahmed Khan v. Shah Bano Begum)",
+    "citation": "AIR 1985 SC 945",
+    "court": "Supreme Court of India",
+    "date": "1985-04-23",
+    "jurisdiction": "Federal",
+    "caseType": "Civil Rights",
+    "summary": "Secured maintenance rights for divorced Muslim women under the Criminal Procedure Code, sparking debates on personal law vs. constitutional rights.",
+    "keyPoints": [
+      "Divorced Muslim women entitled to maintenance under secular law.",
+      "Reconciled personal laws with constitutional principles.",
+      "Highlighted gender justice issues.",
+      "Triggered legislative amendments (Muslim Women Act 1986).",
+      "Set precedent for balancing religion and gender equality."
+    ],
+    "tags": ["Gender Justice", "Maintenance", "Personal Law"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "R. Rajagopal v. State of Tamil Nadu (Auto Shankar Case)",
+    "citation": "AIR 1995 SC 264",
+    "court": "Supreme Court of India",
+    "date": "1994-12-12",
+    "jurisdiction": "Federal",
+    "caseType": "Civil Rights",
+    "summary": "Held that freedom of press is not absolute; privacy of individuals must be protected.",
+    "keyPoints": [
+      "Right to privacy is part of fundamental rights under Article 21.",
+      "Press freedom has limits when it infringes individual rights.",
+      "Balanced media rights and personal privacy.",
+      "Set standards for media reporting.",
+      "Reinforced the importance of dignity and reputation in law."
+    ],
+    "tags": ["Right to Privacy", "Press Freedom", "Fundamental Rights"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Environmental Case: M.C. Mehta v. Union of India (Ganga Pollution)",
+    "citation": "AIR 1988 SC 1037",
+    "court": "Supreme Court of India",
+    "date": "1988-04-20",
+    "jurisdiction": "Federal",
+    "caseType": "Environmental Law",
+    "summary": "Directed government to prevent industrial pollution of the Ganga River and introduced public interest litigation (PIL) in environmental protection.",
+    "keyPoints": [
+      "Introduced strict liability for environmental harm.",
+      "Expanded the scope of Public Interest Litigation (PIL).",
+      "Mandated pollution control measures.",
+      "Recognized right to a clean environment as part of Article 21.",
+      "Set precedent for future environmental jurisprudence."
+    ],
+    "tags": ["Environmental Law", "PIL", "Right to Life"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "M.C. Mehta v. Union of India (Taj Trapezium Case)",
+    "citation": "AIR 1997 SC 734",
+    "court": "Supreme Court of India",
+    "date": "1996-05-14",
+    "jurisdiction": "Federal",
+    "caseType": "Environmental Law",
+    "summary": "Ordered relocation of industries causing air pollution around the Taj Mahal to protect heritage sites.",
+    "keyPoints": [
+      "Air pollution is a violation of Article 21.",
+      "Heritage conservation is linked to public welfare.",
+      "Industries must adopt cleaner technologies.",
+      "Expanded judiciary’s role in environmental protection.",
+      "Set a model for heritage site preservation through legal action."
+    ],
+    "tags": ["Environmental Law", "Heritage Protection", "Air Pollution"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "S.P. Gupta v. Union of India (Judges Transfer Case)",
+    "citation": "AIR 1982 SC 149",
+    "court": "Supreme Court of India",
+    "date": "1981-12-30",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Addressed the independence of the judiciary and procedure for judges’ transfer, highlighting executive influence risks.",
+    "keyPoints": [
+      "Judicial independence is a cornerstone of democracy.",
+      "Transfer of judges should follow transparent procedures.",
+      "Executive influence over judiciary must be limited.",
+      "Reinforced constitutional safeguards for judges.",
+      "Set a basis for future collegium system debates."
+    ],
+    "tags": ["Judicial Independence", "Judges Transfer", "Constitutional Law"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "K.K. Verma v. Union of India",
+    "citation": "AIR 1981 SC 487",
+    "court": "Supreme Court of India",
+    "date": "1981-06-10",
+    "jurisdiction": "Federal",
+    "caseType": "Administrative Law",
+    "summary": "Defined limits of executive discretion in administrative actions.",
+    "keyPoints": [
+      "Executive actions must follow principles of natural justice.",
+      "Arbitrary power by administration is unconstitutional.",
+      "Judicial review can check administrative excess.",
+      "Emphasized fairness in public decision-making.",
+      "Balanced administrative efficiency with rights protection."
+    ],
+    "tags": ["Administrative Law", "Executive Power", "Judicial Review"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Union Carbide Corporation Case (Bhopal Gas Tragedy)",
+    "citation": "AIR 1989 SC 189",
+    "court": "Supreme Court of India",
+    "date": "1989-02-14",
+    "jurisdiction": "Federal",
+    "caseType": "Environmental & Tort Law",
+    "summary": "Held multinational corporations accountable for industrial disasters in India, ensuring compensation for victims.",
+    "keyPoints": [
+      "Corporate liability extends to Indian jurisdiction.",
+      "Victims’ compensation is mandatory.",
+      "Environmental disasters require strict legal accountability.",
+      "Set precedent for transnational industrial negligence.",
+      "Strengthened environmental and public health law."
+    ],
+    "tags": ["Corporate Liability", "Environmental Law", "Public Health"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Vineet Narain v. Union of India",
+    "citation": "AIR 1998 SC 889",
+    "court": "Supreme Court of India",
+    "date": "1997-12-31",
+    "jurisdiction": "Federal",
+    "caseType": "Administrative Law",
+    "summary": "Directed reforms in the investigation process and central vigilance, enhancing accountability of public servants.",
+    "keyPoints": [
+      "Central Bureau of Investigation (CBI) autonomy enhanced.",
+      "Accountability mechanisms for high-ranking officials strengthened.",
+      "Judicial oversight on investigation processes.",
+      "Reduced political interference in public investigations.",
+      "Set precedent for transparency in administrative operations."
+    ],
+    "tags": ["CBI", "Administrative Law", "Corruption Control"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Aruna Shanbaug v. Union of India",
+    "citation": "AIR 2011 SC 1290",
+    "court": "Supreme Court of India",
+    "date": "2011-03-07",
+    "jurisdiction": "Federal",
+    "caseType": "Medical Law",
+    "summary": "Allowed passive euthanasia under strict guidelines for patients in a persistent vegetative state.",
+    "keyPoints": [
+      "Passive euthanasia is permissible under judicial supervision.",
+      "Patients’ dignity and human rights protected.",
+      "Medical ethics integrated into constitutional law.",
+      "Requires High Court approval for withdrawal of life support.",
+      "Set precedent for end-of-life care and rights in India."
+    ],
+    "tags": ["Medical Law", "Euthanasia", "Right to Life"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Subramanian Swamy v. Union of India",
+    "citation": "AIR 2016 SC 2089",
+    "court": "Supreme Court of India",
+    "date": "2016-09-21",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Ruled on the validity of the National Judicial Appointments Commission (NJAC) Act, reaffirming the primacy of the judiciary in judicial appointments.",
+    "keyPoints": [
+      "NJAC Act struck down as unconstitutional.",
+      "Collegium system for judicial appointments upheld.",
+      "Judicial independence protected.",
+      "Parliament cannot dilute judiciary's power in appointments.",
+      "Reinforced separation of powers doctrine."
+    ],
+    "tags": ["Judicial Independence", "NJAC", "Collegium System"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Right to Privacy Case (Puttaswamy v. Union of India)",
+    "citation": "AIR 2017 SC 4161",
+    "court": "Supreme Court of India",
+    "date": "2017-08-24",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Declared the right to privacy as a fundamental right under Article 21.",
+    "keyPoints": [
+      "Right to privacy is intrinsic to life and personal liberty.",
+      "Includes informational, bodily, and decisional privacy.",
+      "Privacy cannot be violated without just, fair, and reasonable law.",
+      "Limits governmental surveillance powers.",
+      "Foundation for Aadhaar and data protection discussions."
+    ],
+    "tags": ["Right to Privacy", "Article 21", "Fundamental Rights"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Union of India v. R. Gandhi",
+    "citation": "AIR 2010 SC 2696",
+    "court": "Supreme Court of India",
+    "date": "2010-09-01",
+    "jurisdiction": "Federal",
+    "caseType": "Administrative Law",
+    "summary": "Set guidelines for transfer and postings of high-ranking officials to prevent executive misuse.",
+    "keyPoints": [
+      "Transfers must be transparent and justified.",
+      "Protects officers from arbitrary political influence.",
+      "Ensures administrative fairness.",
+      "Reinforces constitutional principles in bureaucracy.",
+      "Provides framework for judicial review of transfers."
+    ],
+    "tags": ["Administrative Law", "Transfers", "Executive Accountability"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Shreya Singhal v. Union of India",
+    "citation": "AIR 2015 SC 1523",
+    "court": "Supreme Court of India",
+    "date": "2015-03-24",
+    "jurisdiction": "Federal",
+    "caseType": "Freedom of Speech",
+    "summary": "Struck down Section 66A of the IT Act for violating freedom of speech under Article 19(1)(a).",
+    "keyPoints": [
+      "Section 66A of IT Act unconstitutional.",
+      "Freedom of speech includes online communication.",
+      "Laws restricting speech must be reasonable and clear.",
+      "Set precedent for digital rights and online expression.",
+      "Reinforced fundamental rights in the digital age."
+    ],
+    "tags": ["Freedom of Speech", "IT Act", "Digital Rights"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Naz Foundation v. Govt. of NCT of Delhi",
+    "citation": "AIR 2009 Del 222",
+    "court": "Delhi High Court",
+    "date": "2009-07-02",
+    "jurisdiction": "Federal",
+    "caseType": "Civil Rights",
+    "summary": "Decriminalized consensual homosexual acts among adults, interpreting Section 377 of IPC in line with fundamental rights.",
+    "keyPoints": [
+      "Decriminalized consensual adult homosexual activity.",
+      "Right to equality under Article 14 protected.",
+      "Right to privacy under Article 21 upheld.",
+      "Promoted non-discrimination based on sexual orientation.",
+      "Set foundation for LGBTQ+ rights in India."
+    ],
+    "tags": ["LGBTQ Rights", "Section 377", "Fundamental Rights"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Navtej Singh Johar v. Union of India",
+    "citation": "AIR 2018 SC 4321",
+    "court": "Supreme Court of India",
+    "date": "2018-09-06",
+    "jurisdiction": "Federal",
+    "caseType": "Civil Rights",
+    "summary": "Read down Section 377 IPC, fully legalizing consensual same-sex relationships in India.",
+    "keyPoints": [
+      "Affirmed rights of LGBTQ+ community.",
+      "Privacy, equality, and dignity protected.",
+      "Section 377 unconstitutional to the extent of adult consensual acts.",
+      "Promoted inclusion and non-discrimination.",
+      "Strengthened interpretation of Articles 14, 15, and 21."
+    ],
+    "tags": ["LGBTQ Rights", "Section 377", "Fundamental Rights"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "State of West Bengal v. Committee for Protection of Democratic Rights",
+    "citation": "AIR 2010 SC 1476",
+    "court": "Supreme Court of India",
+    "date": "2010-04-16",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Recognized the right to protest and peaceful assembly as part of fundamental rights under Article 19.",
+    "keyPoints": [
+      "Right to peaceful protest is a fundamental right.",
+      "State must not arbitrarily restrict assembly.",
+      "Public order limitations must be reasonable.",
+      "Promoted civil liberties in democratic society.",
+      "Set precedent for modern protest laws."
+    ],
+    "tags": ["Fundamental Rights", "Right to Protest", "Civil Liberties"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "MC Mehta v. Kamal Nath (Taj Trapezium Case II)",
+    "citation": "AIR 2000 SC 1633",
+    "court": "Supreme Court of India",
+    "date": "2000-05-12",
+    "jurisdiction": "Federal",
+    "caseType": "Environmental Law",
+    "summary": "Directed phasing out of polluting industries affecting Taj Mahal, reinforcing environmental protection in heritage zones.",
+    "keyPoints": [
+      "Industries causing pollution must relocate.",
+      "Environmental protection prioritized over industrial interests.",
+      "Heritage conservation tied to public health.",
+      "Judiciary active in enforcing environmental laws.",
+      "Set precedent for industrial environmental compliance."
+    ],
+    "tags": ["Environmental Law", "Heritage Protection", "Pollution Control"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "MC Mehta v. Union of India (Vehicular Pollution Case)",
+    "citation": "AIR 1998 SC 1675",
+    "court": "Supreme Court of India",
+    "date": "1998-11-14",
+    "jurisdiction": "Federal",
+    "caseType": "Environmental Law",
+    "summary": "Ordered use of compressed natural gas (CNG) in Delhi public transport to reduce pollution.",
+    "keyPoints": [
+      "CNG mandated for buses and taxis in Delhi.",
+      "Public health prioritized in environmental decisions.",
+      "Judiciary proactive in combating air pollution.",
+      "Pollution control framed as constitutional obligation.",
+      "Set a model for sustainable urban environmental policy."
+    ],
+    "tags": ["Environmental Law", "Air Pollution", "Public Health"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Common Cause v. Union of India (Euthanasia Case)",
+    "citation": "AIR 2018 SC 2346",
+    "court": "Supreme Court of India",
+    "date": "2018-03-09",
+    "jurisdiction": "Federal",
+    "caseType": "Medical Law",
+    "summary": "Allowed passive euthanasia and living wills for terminally ill patients under strict conditions.",
+    "keyPoints": [
+      "Passive euthanasia legalized with strict guidelines.",
+      "Living wills recognized legally.",
+      "Patient autonomy and dignity protected.",
+      "Court set procedural safeguards for withdrawal of life support.",
+      "Clarified ethical and constitutional aspects of end-of-life care."
+    ],
+    "tags": ["Medical Law", "Euthanasia", "Right to Life"],
+    "precedentValue": "High"
+  },
+
+  {
+    "title": "Anuj Garg v. Hotel Association of India",
+    "citation": "AIR 2008 SC 1447",
+    "court": "Supreme Court of India",
+    "date": "2008-03-03",
+    "jurisdiction": "Federal",
+    "caseType": "Labor & Discrimination Law",
+    "summary": "Struck down discriminatory provisions in hotel employment laws that prevented women from working at night.",
+    "keyPoints": [
+      "Gender discrimination in employment unconstitutional.",
+      "Equality under Articles 14, 15 upheld.",
+      "Right to livelihood protected under Article 21.",
+      "Employment laws must be non-discriminatory and inclusive.",
+      "Set precedent for women’s rights in labor law."
+    ],
+    "tags": ["Gender Equality", "Labor Law", "Fundamental Rights"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Bachan Singh v. State of Punjab",
+    "citation": "AIR 1980 SC 898",
+    "court": "Supreme Court of India",
+    "date": "1980-05-07",
+    "jurisdiction": "Federal",
+    "caseType": "Criminal Law",
+    "summary": "Upheld the constitutionality of the death penalty under 'rarest of rare' principle.",
+    "keyPoints": [
+      "Death penalty restricted to 'rarest of rare' cases.",
+      "Emphasized judicial discretion in capital punishment.",
+      "Human rights balanced with societal protection.",
+      "Set guidelines for sentencing in murder cases.",
+      "Reinforced Article 21 protections with proportionality principle."
+    ],
+    "tags": ["Criminal Law", "Death Penalty", "Human Rights"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "L. Chandra Kumar v. Union of India",
+    "citation": "AIR 1997 SC 1125",
+    "court": "Supreme Court of India",
+    "date": "1997-03-06",
+    "jurisdiction": "Federal",
+    "caseType": "Administrative Law",
+    "summary": "Judicial review of tribunals established by Parliament is essential to maintain the rule of law.",
+    "keyPoints": [
+      "Tribunal decisions are subject to judicial review.",
+      "Ensures balance between executive and judiciary.",
+      "Protects rights of citizens from arbitrary administrative decisions.",
+      "Judicial oversight maintains constitutional governance.",
+      "Strengthened independence of judiciary and rule of law."
+    ],
+    "tags": ["Judicial Review", "Tribunals", "Administrative Law"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "K.S. Puttaswamy v. Union of India",
+    "citation": "AIR 2017 SC 4161",
+    "court": "Supreme Court of India",
+    "date": "2017-08-24",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Right to privacy declared a fundamental right under Articles 14, 19, and 21.",
+    "keyPoints": [
+      "Privacy is intrinsic to life and liberty.",
+      "Includes bodily, informational, and decisional privacy.",
+      "Government surveillance limited by law.",
+      "Data protection frameworks strengthened.",
+      "Precedent for Aadhaar and digital privacy cases."
+    ],
+    "tags": ["Right to Privacy", "Fundamental Rights", "Digital Privacy"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "MC Mehta v. Union of India (Ganga Pollution II)",
+    "citation": "AIR 1998 SC 1037",
+    "court": "Supreme Court of India",
+    "date": "1998-03-14",
+    "jurisdiction": "Federal",
+    "caseType": "Environmental Law",
+    "summary": "Directed closure of polluting industries affecting river Ganga and reinforced public interest litigation in environmental matters.",
+    "keyPoints": [
+      "Industrial pollution strictly controlled.",
+      "Public interest litigation used as tool for environmental protection.",
+      "Right to clean water linked to Article 21.",
+      "Strict liability for polluting industries.",
+      "Set a precedent for environmental accountability and rehabilitation."
+    ],
+    "tags": ["Environmental Law", "PIL", "Clean Water"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Navtej Singh Johar v. Union of India",
+    "citation": "AIR 2018 SC 4321",
+    "court": "Supreme Court of India",
+    "date": "2018-09-06",
+    "jurisdiction": "Federal",
+    "caseType": "Civil Rights",
+    "summary": "Decriminalized consensual same-sex relations among adults, reinforcing LGBTQ+ rights in India.",
+    "keyPoints": [
+      "Section 377 partially struck down.",
+      "Consent of adults is critical for legality.",
+      "Privacy, equality, and dignity protected.",
+      "Affirmed LGBTQ+ rights under Articles 14, 15, and 21.",
+      "Strengthened legal protection for marginalized groups."
+    ],
+    "tags": ["LGBTQ Rights", "Section 377", "Civil Liberties"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "S.R. Bommai v. Union of India",
+    "citation": "AIR 1994 SC 1918",
+    "court": "Supreme Court of India",
+    "date": "1994-03-11",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Judicial review of Article 356 dismissals to prevent misuse of President’s rule.",
+    "keyPoints": [
+      "President’s rule must follow constitutional safeguards.",
+      "State dismissal subject to judicial scrutiny.",
+      "Limits executive overreach on states.",
+      "Strengthened federalism in India.",
+      "Reinforced democratic accountability."
+    ],
+    "tags": ["Article 356", "Federalism", "Judicial Review"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Common Cause v. Union of India",
+    "citation": "AIR 2018 SC 2346",
+    "court": "Supreme Court of India",
+    "date": "2018-03-09",
+    "jurisdiction": "Federal",
+    "caseType": "Medical Law",
+    "summary": "Legally recognized living wills and passive euthanasia for terminally ill patients under strict conditions.",
+    "keyPoints": [
+      "Passive euthanasia permitted with High Court approval.",
+      "Living wills legally recognized.",
+      "Patient dignity protected under Article 21.",
+      "Strict safeguards for withdrawal of life support.",
+      "Set precedent for end-of-life care in India."
+    ],
+    "tags": ["Medical Law", "Euthanasia", "Right to Life"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Shreya Singhal v. Union of India",
+    "citation": "AIR 2015 SC 1523",
+    "court": "Supreme Court of India",
+    "date": "2015-03-24",
+    "jurisdiction": "Federal",
+    "caseType": "Freedom of Speech",
+    "summary": "Struck down Section 66A of IT Act, defending freedom of speech online.",
+    "keyPoints": [
+      "Section 66A unconstitutional for vagueness.",
+      "Online expression protected under Article 19(1)(a).",
+      "Freedom of speech limited only by reasonable restrictions.",
+      "Set precedent for digital rights and expression.",
+      "Strengthened constitutional protection in cyberspace."
+    ],
+    "tags": ["Freedom of Speech", "Digital Rights", "IT Act"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Naz Foundation v. Govt. of NCT of Delhi",
+    "citation": "AIR 2009 Del 222",
+    "court": "Delhi High Court",
+    "date": "2009-07-02",
+    "jurisdiction": "Federal",
+    "caseType": "Civil Rights",
+    "summary": "Decriminalized consensual homosexual acts among adults under Section 377 IPC.",
+    "keyPoints": [
+      "Right to equality under Article 14 upheld.",
+      "Right to privacy protected under Article 21.",
+      "Section 377 unconstitutional for adult consensual acts.",
+      "Promoted non-discrimination based on sexual orientation.",
+      "Set legal foundation for LGBTQ+ rights in India."
+    ],
+    "tags": ["Civil Rights", "LGBTQ Rights", "Section 377"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Bachan Singh v. State of Punjab",
+    "citation": "AIR 1980 SC 898",
+    "court": "Supreme Court of India",
+    "date": "1980-05-07",
+    "jurisdiction": "Federal",
+    "caseType": "Criminal Law",
+    "summary": "Upheld death penalty under 'rarest of rare' principle for capital punishment cases.",
+    "keyPoints": [
+      "Death penalty restricted to 'rarest of rare' cases.",
+      "Judicial discretion emphasized in capital sentencing.",
+      "Proportionality principle applied for life vs. death sentences.",
+      "Balance between human rights and societal protection.",
+      "Set guidelines for courts in awarding death penalty."
+    ],
+    "tags": ["Criminal Law", "Death Penalty", "Human Rights"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "MC Mehta v. Union of India (Vehicular Pollution Case)",
+    "citation": "AIR 1998 SC 1675",
+    "court": "Supreme Court of India",
+    "date": "1998-11-14",
+    "jurisdiction": "Federal",
+    "caseType": "Environmental Law",
+    "summary": "Directed the conversion of Delhi public transport to CNG to reduce air pollution.",
+    "keyPoints": [
+      "CNG mandated for buses and taxis to control pollution.",
+      "Public health and environmental protection prioritized.",
+      "Judicial intervention in pollution control validated.",
+      "Industrial compliance reinforced.",
+      "Model for urban environmental sustainability."
+    ],
+    "tags": ["Environmental Law", "Air Pollution", "Public Health"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "MC Mehta v. Union of India (Taj Trapezium Case II)",
+    "citation": "AIR 2000 SC 1633",
+    "court": "Supreme Court of India",
+    "date": "2000-05-12",
+    "jurisdiction": "Federal",
+    "caseType": "Environmental Law",
+    "summary": "Ordered relocation of industries affecting Taj Mahal to preserve heritage and reduce pollution.",
+    "keyPoints": [
+      "Heritage conservation prioritized alongside environmental protection.",
+      "Industries causing pollution required relocation.",
+      "Judicial activism used for environmental protection.",
+      "Public welfare linked with preservation of historical monuments.",
+      "Set precedent for industrial regulation near heritage zones."
+    ],
+    "tags": ["Environmental Law", "Heritage Protection", "Pollution Control"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "S.R. Bommai v. Union of India",
+    "citation": "AIR 1994 SC 1918",
+    "court": "Supreme Court of India",
+    "date": "1994-03-11",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Judicial review of President’s rule under Article 356 to prevent misuse of power.",
+    "keyPoints": [
+      "State government dismissal subject to judicial scrutiny.",
+      "Limits central government power over states.",
+      "Strengthened federalism in India.",
+      "Democratic accountability reinforced.",
+      "Set precedent for abuse of Article 356."
+    ],
+    "tags": ["Article 356", "Federalism", "Judicial Review"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "MC Mehta v. Union of India (Ganga Pollution II)",
+    "citation": "AIR 1998 SC 1037",
+    "court": "Supreme Court of India",
+    "date": "1998-03-14",
+    "jurisdiction": "Federal",
+    "caseType": "Environmental Law",
+    "summary": "Ordered closure of polluting industries affecting Ganga River and reinforced Public Interest Litigation.",
+    "keyPoints": [
+      "Strict liability imposed on polluting industries.",
+      "Right to clean water recognized under Article 21.",
+      "Public Interest Litigation strengthened environmental law.",
+      "Rehabilitation of affected communities mandated.",
+      "Set precedent for accountability in industrial pollution."
+    ],
+    "tags": ["Environmental Law", "PIL", "Clean Water"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Navtej Singh Johar v. Union of India",
+    "citation": "AIR 2018 SC 4321",
+    "court": "Supreme Court of India",
+    "date": "2018-09-06",
+    "jurisdiction": "Federal",
+    "caseType": "Civil Rights",
+    "summary": "Decriminalized consensual same-sex relations, affirming LGBTQ+ rights in India.",
+    "keyPoints": [
+      "Section 377 IPC partially struck down.",
+      "Consent of adults crucial for legality.",
+      "Privacy, equality, and dignity protected.",
+      "Promoted LGBTQ+ rights under Articles 14, 15, and 21.",
+      "Legal recognition for marginalized groups strengthened."
+    ],
+    "tags": ["LGBTQ Rights", "Section 377", "Civil Liberties"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Shreya Singhal v. Union of India",
+    "citation": "AIR 2015 SC 1523",
+    "court": "Supreme Court of India",
+    "date": "2015-03-24",
+    "jurisdiction": "Federal",
+    "caseType": "Freedom of Speech",
+    "summary": "Struck down Section 66A of IT Act for violating freedom of speech online.",
+    "keyPoints": [
+      "Section 66A unconstitutional for vagueness.",
+      "Online speech protected under Article 19(1)(a).",
+      "Freedom of speech limited only by reasonable restrictions.",
+      "Set precedent for digital rights and freedom.",
+      "Strengthened constitutional protection in cyberspace."
+    ],
+    "tags": ["Freedom of Speech", "Digital Rights", "IT Act"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Anuj Garg v. Hotel Association of India",
+    "citation": "AIR 2008 SC 1447",
+    "court": "Supreme Court of India",
+    "date": "2008-03-03",
+    "jurisdiction": "Federal",
+    "caseType": "Labor & Discrimination Law",
+    "summary": "Struck down gender-discriminatory laws preventing women from working at night in hotels.",
+    "keyPoints": [
+      "Gender equality in employment upheld.",
+      "Articles 14, 15 equality protected.",
+      "Right to livelihood recognized under Article 21.",
+      "Employment laws must be inclusive and non-discriminatory.",
+      "Set precedent for women’s labor rights."
+    ],
+    "tags": ["Gender Equality", "Labor Law", "Fundamental Rights"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Common Cause v. Union of India",
+    "citation": "AIR 2018 SC 2346",
+    "court": "Supreme Court of India",
+    "date": "2018-03-09",
+    "jurisdiction": "Federal",
+    "caseType": "Medical Law",
+    "summary": "Allowed passive euthanasia and recognized living wills for terminally ill patients.",
+    "keyPoints": [
+      "Passive euthanasia legally permitted under strict guidelines.",
+      "Living wills legally recognized.",
+      "Patient dignity and autonomy protected.",
+      "High Court approval required for withdrawal of life support.",
+      "Set precedent for end-of-life medical decisions."
+    ],
+    "tags": ["Medical Law", "Euthanasia", "Right to Life"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "L. Chandra Kumar v. Union of India",
+    "citation": "AIR 1997 SC 1125",
+    "court": "Supreme Court of India",
+    "date": "1997-03-06",
+    "jurisdiction": "Federal",
+    "caseType": "Administrative Law",
+    "summary": "Ensured judicial review of tribunals for maintaining rule of law.",
+    "keyPoints": [
+      "Tribunal decisions subject to judicial review.",
+      "Balances executive power with judiciary.",
+      "Protects citizens from arbitrary administrative decisions.",
+      "Strengthens independence of judiciary.",
+      "Reinforces rule of law in governance."
+    ],
+    "tags": ["Judicial Review", "Tribunals", "Administrative Law"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Kesavananda Bharati v. State of Kerala",
+    "citation": "AIR 1973 SC 1461",
+    "court": "Supreme Court of India",
+    "date": "1973-04-24",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Established the 'Basic Structure Doctrine', limiting Parliament’s power to amend the Constitution.",
+    "keyPoints": [
+      "Parliament cannot alter the basic structure of the Constitution.",
+      "Fundamental rights protected from arbitrary amendments.",
+      "Separation of powers reinforced.",
+      "Judicial review reaffirmed.",
+      "Set a cornerstone precedent for constitutional amendments."
+    ],
+    "tags": ["Constitutional Law", "Basic Structure Doctrine", "Fundamental Rights"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Maneka Gandhi v. Union of India",
+    "citation": "AIR 1978 SC 597",
+    "court": "Supreme Court of India",
+    "date": "1978-01-25",
+    "jurisdiction": "Federal",
+    "caseType": "Civil Rights",
+    "summary": "Expanded the scope of personal liberty under Article 21, emphasizing due process.",
+    "keyPoints": [
+      "Right to life and personal liberty is broad and procedural fairness required.",
+      "Any law restricting liberty must be just, fair, and reasonable.",
+      "Due process principles integrated into Indian law.",
+      "Strengthened protection against arbitrary state action.",
+      "Set precedent for interpreting Articles 14, 19, and 21 together."
+    ],
+    "tags": ["Civil Rights", "Article 21", "Due Process"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Indira Gandhi v. Raj Narain",
+    "citation": "AIR 1975 SC 2299",
+    "court": "Supreme Court of India",
+    "date": "1975-06-12",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Invalidated election of Prime Minister Indira Gandhi on grounds of electoral malpractices.",
+    "keyPoints": [
+      "Electoral integrity upheld.",
+      "Misuse of state machinery in elections prohibited.",
+      "Judiciary acts as guardian of democratic processes.",
+      "Set precedent for election law jurisprudence.",
+      "Strengthened checks on executive power."
+    ],
+    "tags": ["Election Law", "Constitutional Law", "Democracy"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "S.R. Bommai v. Union of India",
+    "citation": "AIR 1994 SC 1918",
+    "court": "Supreme Court of India",
+    "date": "1994-03-11",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Judicial review of Article 356 to prevent arbitrary dismissal of state governments.",
+    "keyPoints": [
+      "President's rule subject to judicial scrutiny.",
+      "Limits on central government over state powers.",
+      "Strengthened federalism.",
+      "Democratic accountability emphasized.",
+      "Set precedent for Article 356 misuse prevention."
+    ],
+    "tags": ["Article 356", "Federalism", "Judicial Review"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Shreya Singhal v. Union of India",
+    "citation": "AIR 2015 SC 1523",
+    "court": "Supreme Court of India",
+    "date": "2015-03-24",
+    "jurisdiction": "Federal",
+    "caseType": "Freedom of Speech",
+    "summary": "Struck down Section 66A of IT Act, protecting online freedom of expression.",
+    "keyPoints": [
+      "Section 66A unconstitutional for vagueness.",
+      "Online speech protected under Article 19(1)(a).",
+      "Reasonable restrictions only allowed for speech.",
+      "Digital rights strengthened.",
+      "Set precedent for cyberspace freedom of expression."
+    ],
+    "tags": ["Freedom of Speech", "Digital Rights", "IT Act"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Navtej Singh Johar v. Union of India",
+    "citation": "AIR 2018 SC 4321",
+    "court": "Supreme Court of India",
+    "date": "2018-09-06",
+    "jurisdiction": "Federal",
+    "caseType": "Civil Rights",
+    "summary": "Decriminalized consensual same-sex relations, affirming LGBTQ+ rights.",
+    "keyPoints": [
+      "Section 377 IPC partially struck down.",
+      "Consent of adults critical for legality.",
+      "Privacy, equality, and dignity protected.",
+      "LGBTQ+ rights recognized under Articles 14, 15, and 21.",
+      "Legal protection for marginalized groups strengthened."
+    ],
+    "tags": ["LGBTQ Rights", "Section 377", "Civil Liberties"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "MC Mehta v. Union of India (Ganga Pollution II)",
+    "citation": "AIR 1998 SC 1037",
+    "court": "Supreme Court of India",
+    "date": "1998-03-14",
+    "jurisdiction": "Federal",
+    "caseType": "Environmental Law",
+    "summary": "Ordered closure of polluting industries along Ganga River, reinforcing environmental accountability.",
+    "keyPoints": [
+      "Strict liability on polluting industries.",
+      "Right to clean water part of Article 21.",
+      "PIL strengthened environmental protection.",
+      "Rehabilitation of affected communities mandated.",
+      "Set precedent for industrial environmental compliance."
+    ],
+    "tags": ["Environmental Law", "PIL", "Clean Water"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Anuj Garg v. Hotel Association of India",
+    "citation": "AIR 2008 SC 1447",
+    "court": "Supreme Court of India",
+    "date": "2008-03-03",
+    "jurisdiction": "Federal",
+    "caseType": "Labor & Discrimination Law",
+    "summary": "Struck down discriminatory laws preventing women from working night shifts in hotels.",
+    "keyPoints": [
+      "Gender equality in employment upheld.",
+      "Articles 14 and 15 enforced.",
+      "Right to livelihood recognized under Article 21.",
+      "Employment laws must be non-discriminatory.",
+      "Set precedent for women’s labor rights."
+    ],
+    "tags": ["Gender Equality", "Labor Law", "Fundamental Rights"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Common Cause v. Union of India",
+    "citation": "AIR 2018 SC 2346",
+    "court": "Supreme Court of India",
+    "date": "2018-03-09",
+    "jurisdiction": "Federal",
+    "caseType": "Medical Law",
+    "summary": "Allowed passive euthanasia and recognized living wills for terminally ill patients.",
+    "keyPoints": [
+      "Passive euthanasia legally permitted under strict guidelines.",
+      "Living wills recognized legally.",
+      "Patient autonomy and dignity protected.",
+      "High Court approval required for withdrawal of life support.",
+      "Precedent set for end-of-life medical decisions."
+    ],
+    "tags": ["Medical Law", "Euthanasia", "Right to Life"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Maneka Gandhi v. Union of India",
+    "citation": "AIR 1978 SC 597",
+    "court": "Supreme Court of India",
+    "date": "1978-01-25",
+    "jurisdiction": "Federal",
+    "caseType": "Civil Rights",
+    "summary": "Expanded the scope of personal liberty under Article 21.",
+    "keyPoints": [
+      "Right to life and personal liberty broad and protected.",
+      "Any law restricting liberty must be just, fair, and reasonable.",
+      "Due process integrated into Indian law.",
+      "Protection against arbitrary state action strengthened.",
+      "Articles 14, 19, and 21 interpreted together."
+    ],
+    "tags": ["Civil Rights", "Article 21", "Due Process"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Kesavananda Bharati v. State of Kerala",
+    "citation": "AIR 1973 SC 1461",
+    "court": "Supreme Court of India",
+    "date": "1973-04-24",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Established the 'Basic Structure Doctrine', limiting Parliament’s power to amend the Constitution.",
+    "keyPoints": [
+      "Parliament cannot alter Constitution’s basic structure.",
+      "Fundamental rights protected from arbitrary amendments.",
+      "Separation of powers reinforced.",
+      "Judicial review reaffirmed.",
+      "Cornerstone precedent for constitutional amendments."
+    ],
+    "tags": ["Constitutional Law", "Basic Structure Doctrine", "Fundamental Rights"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Indira Gandhi v. Raj Narain",
+    "citation": "AIR 1975 SC 2299",
+    "court": "Supreme Court of India",
+    "date": "1975-06-12",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Invalidated Prime Minister Indira Gandhi’s election due to electoral malpractices, reinforcing election integrity.",
+    "keyPoints": [
+      "Electoral integrity upheld.",
+      "Misuse of state machinery prohibited.",
+      "Judiciary acts as guardian of democracy.",
+      "Set precedent for election law jurisprudence.",
+      "Checks on executive power strengthened."
+    ],
+    "tags": ["Election Law", "Constitutional Law", "Democracy"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "S.R. Bommai v. Union of India",
+    "citation": "AIR 1994 SC 1918",
+    "court": "Supreme Court of India",
+    "date": "1994-03-11",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Judicial review of Article 356 dismissals to prevent misuse of President’s rule.",
+    "keyPoints": [
+      "State government dismissal subject to judicial review.",
+      "Limits central government overreach on states.",
+      "Strengthened federalism.",
+      "Democratic accountability reinforced.",
+      "Set precedent for Article 356 misuse prevention."
+    ],
+    "tags": ["Article 356", "Federalism", "Judicial Review"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Shreya Singhal v. Union of India",
+    "citation": "AIR 2015 SC 1523",
+    "court": "Supreme Court of India",
+    "date": "2015-03-24",
+    "jurisdiction": "Federal",
+    "caseType": "Freedom of Speech",
+    "summary": "Struck down Section 66A of IT Act for violating freedom of speech online.",
+    "keyPoints": [
+      "Section 66A unconstitutional for vagueness.",
+      "Online speech protected under Article 19(1)(a).",
+      "Reasonable restrictions only allowed.",
+      "Set precedent for digital rights.",
+      "Strengthened constitutional protection in cyberspace."
+    ],
+    "tags": ["Freedom of Speech", "Digital Rights", "IT Act"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Navtej Singh Johar v. Union of India",
+    "citation": "AIR 2018 SC 4321",
+    "court": "Supreme Court of India",
+    "date": "2018-09-06",
+    "jurisdiction": "Federal",
+    "caseType": "Civil Rights",
+    "summary": "Decriminalized consensual same-sex relations, affirming LGBTQ+ rights.",
+    "keyPoints": [
+      "Section 377 IPC partially struck down.",
+      "Consent of adults critical.",
+      "Privacy, equality, dignity protected.",
+      "LGBTQ+ rights recognized under Articles 14, 15, 21.",
+      "Legal protection for marginalized groups strengthened."
+    ],
+    "tags": ["LGBTQ Rights", "Section 377", "Civil Liberties"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "MC Mehta v. Union of India (Ganga Pollution II)",
+    "citation": "AIR 1998 SC 1037",
+    "court": "Supreme Court of India",
+    "date": "1998-03-14",
+    "jurisdiction": "Federal",
+    "caseType": "Environmental Law",
+    "summary": "Ordered closure of polluting industries along Ganga River, reinforcing environmental accountability.",
+    "keyPoints": [
+      "Strict liability on polluting industries.",
+      "Right to clean water part of Article 21.",
+      "PIL strengthened environmental protection.",
+      "Rehabilitation of affected communities mandated.",
+      "Set precedent for industrial environmental compliance."
+    ],
+    "tags": ["Environmental Law", "PIL", "Clean Water"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Anuj Garg v. Hotel Association of India",
+    "citation": "AIR 2008 SC 1447",
+    "court": "Supreme Court of India",
+    "date": "2008-03-03",
+    "jurisdiction": "Federal",
+    "caseType": "Labor & Discrimination Law",
+    "summary": "Struck down discriminatory laws preventing women from working night shifts in hotels.",
+    "keyPoints": [
+      "Gender equality in employment upheld.",
+      "Articles 14 and 15 enforced.",
+      "Right to livelihood recognized under Article 21.",
+      "Employment laws must be non-discriminatory.",
+      "Set precedent for women’s labor rights."
+    ],
+    "tags": ["Gender Equality", "Labor Law", "Fundamental Rights"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Common Cause v. Union of India",
+    "citation": "AIR 2018 SC 2346",
+    "court": "Supreme Court of India",
+    "date": "2018-03-09",
+    "jurisdiction": "Federal",
+    "caseType": "Medical Law",
+    "summary": "Allowed passive euthanasia and recognized living wills for terminally ill patients.",
+    "keyPoints": [
+      "Passive euthanasia legally permitted.",
+      "Living wills legally recognized.",
+      "Patient autonomy and dignity protected.",
+      "High Court approval required for withdrawal of life support.",
+      "Precedent set for end-of-life medical decisions."
+    ],
+    "tags": ["Medical Law", "Euthanasia", "Right to Life"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Kesavananda Bharati v. State of Kerala",
+    "citation": "AIR 1973 SC 1461",
+    "court": "Supreme Court of India",
+    "date": "1973-04-24",
+    "jurisdiction": "Federal",
+    "caseType": "Constitutional Law",
+    "summary": "Established the 'Basic Structure Doctrine', limiting Parliament’s power to amend the Constitution.",
+    "keyPoints": [
+      "Parliament cannot alter Constitution’s basic structure.",
+      "Fundamental rights protected from arbitrary amendments.",
+      "Separation of powers reinforced.",
+      "Judicial review reaffirmed.",
+      "Cornerstone precedent for constitutional amendments."
+    ],
+    "tags": ["Constitutional Law", "Basic Structure Doctrine", "Fundamental Rights"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Maneka Gandhi v. Union of India",
+    "citation": "AIR 1978 SC 597",
+    "court": "Supreme Court of India",
+    "date": "1978-01-25",
+    "jurisdiction": "Federal",
+    "caseType": "Civil Rights",
+    "summary": "Expanded the scope of personal liberty under Article 21.",
+    "keyPoints": [
+      "Right to life and personal liberty broad and protected.",
+      "Any law restricting liberty must be just, fair, and reasonable.",
+      "Due process integrated into Indian law.",
+      "Protection against arbitrary state action strengthened.",
+      "Articles 14, 19, and 21 interpreted together."
+    ],
+    "tags": ["Civil Rights", "Article 21", "Due Process"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Indra Sawhney v. Union of India",
+    "citation": "AIR 1993 SC 477",
+    "court": "Supreme Court of India",
+    "date": "1992-11-16",
+    "jurisdiction": "Federal",
+    "caseType": "Affirmative Action",
+    "summary": "Upheld the Mandal Commission recommendations, allowing 27% reservation for OBCs in central government jobs.",
+    "keyPoints": [
+      "Reservation in public employment for OBCs valid.",
+      "Caste-based affirmative action constitutionally permissible.",
+      "Exclusion of 'creamy layer' from reservation.",
+      "Equality under Article 16 maintained with reasonable exceptions.",
+      "Set framework for future reservation policies."
+    ],
+    "tags": ["Reservation", "OBC", "Affirmative Action"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "Vishaka v. State of Rajasthan",
+    "citation": "AIR 1997 SC 3011",
+    "court": "Supreme Court of India",
+    "date": "1997-08-13",
+    "jurisdiction": "Federal",
+    "caseType": "Sexual Harassment Law",
+    "summary": "Laid down Vishaka Guidelines for prevention of sexual harassment at workplace.",
+    "keyPoints": [
+      "Defined sexual harassment at workplace.",
+      "Employers must prevent and address harassment.",
+      "Guidelines enforceable until legislation passed.",
+      "Article 14, 15, and 21 rights reinforced.",
+      "Foundation for Sexual Harassment of Women at Workplace Act, 2013."
+    ],
+    "tags": ["Workplace Law", "Sexual Harassment", "Gender Rights"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "K.M. Nanavati v. State of Maharashtra",
+    "citation": "AIR 1962 SC 605",
+    "court": "Supreme Court of India",
+    "date": "1962-05-18",
+    "jurisdiction": "Federal",
+    "caseType": "Criminal Law",
+    "summary": "Famous criminal case leading to debate on jury trials and judicial discretion in murder cases.",
+    "keyPoints": [
+      "Jury trial system criticized for bias and media influence.",
+      "Judicial discretion emphasized in capital punishment.",
+      "Public and legal debate influenced reforms.",
+      "Set precedent for trial procedures in criminal law.",
+      "Highlighted need for impartial judiciary."
+    ],
+    "tags": ["Criminal Law", "Murder Case", "Judicial Reform"],
+    "precedentValue": "High"
+  },
+  {
+    "title": "A.K. Gopalan v. State of Madras",
+    "citation": "AIR 1950 SC 27",
+    "court": "Supreme Court of India",
+    "date": "1950-03-07",
+    "jurisdiction": "Federal",
+    "caseType": "Civil Rights",
+    "summary": "Held preventive detention under the Preventive Detention Act valid, but limited by due process principles.",
+    "keyPoints": [
+      "Preventive detention constitutionally valid.",
+      "Due process principles reinforced over time.",
+      "Article 21 interpreted narrowly initially.",
+      "Later overruled and expanded by Maneka Gandhi case.",
+      "Set precedent for detention law interpretation."
+    ],
+    "tags": ["Preventive Detention", "Civil Rights", "Article 21"],
+    "precedentValue": "High"
+  }
+]
+
+
+
